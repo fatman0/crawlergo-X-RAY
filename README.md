@@ -13,7 +13,9 @@ configure = {
     "crawlergo_path":"C:/work/crawlergo_x_XRAY-master/crawlergo/crawlergo", # path to crawlergo executable file
     "xray_path":"C:/work/crawlergo_x_XRAY-master/xray/xray_windows_amd64", # path to xray executable file
     }
+    
 把xray起来（注意端口和auto_man.py 一致）
+
 xray webscan --listen 127.0.0.1:7777 --html-output proxy.html
 讲目标放入文件中，target.txt,一行一个
 
