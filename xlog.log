@@ -1,0 +1,65 @@
+===> [info] - - "Target: http://testphp.vulnweb.com/" 2020-03-20-16:39:00
+===> [info] - - "Starting crawlergo" 2020-03-20-16:39:00
+===> [info] - - "Xray Started" 2020-03-20-16:39:01
+===> [info] - - "Crawlergo Done" 2020-03-20-16:39:56
+===> [info] - - "Send Requests" 2020-03-20-16:39:56
+===> [info] - - "Processing http://testphp.vulnweb.com/, Remaining request: 58" 2020-03-20-16:39:57
+===> [info] - - "Processing https://testphp.vulnweb.com/, Remaining request: 57" 2020-03-20-16:39:57
+===> [info] - - "Processing http://testphp.vulnweb.com/admin, Remaining request: 56" 2020-03-20-16:40:02
+===> [info] - - "Processing http://testphp.vulnweb.com/AJAX/index.php, Remaining request: 55" 2020-03-20-16:40:12
+===> [info] - - "Processing http://testphp.vulnweb.com/artists.php, Remaining request: 54" 2020-03-20-16:40:17
+===> [info] - - "Processing http://testphp.vulnweb.com/guestbook.php, Remaining request: 53" 2020-03-20-16:40:22
+===> [info] - - "Processing http://testphp.vulnweb.com/disclaimer.php, Remaining request: 52" 2020-03-20-16:40:27
+===> [info] - - "Processing http://testphp.vulnweb.com/categories.php, Remaining request: 51" 2020-03-20-16:40:32
+===> [info] - - "Processing http://testphp.vulnweb.com/cart.php, Remaining request: 50" 2020-03-20-16:40:37
+===> [info] - - "Processing http://testphp.vulnweb.com/privacy.php, Remaining request: 49" 2020-03-20-16:40:38
+===> [info] - - "Processing http://testphp.vulnweb.com/Mod_Rewrite_Shop/, Remaining request: 48" 2020-03-20-16:40:38
+===> [info] - - "Processing http://testphp.vulnweb.com/login.php, Remaining request: 47" 2020-03-20-16:40:39
+===> [info] - - "Processing http://testphp.vulnweb.com/hpp/, Remaining request: 46" 2020-03-20-16:40:39
+===> [info] - - "Processing http://testphp.vulnweb.com/userinfo.php, Remaining request: 45" 2020-03-20-16:40:40
+===> [info] - - "Processing http://testphp.vulnweb.com/index.php, Remaining request: 44" 2020-03-20-16:40:41
+===> [info] - - "Processing http://testphp.vulnweb.com/search.php?test=query, Remaining request: 43" 2020-03-20-16:40:41
+===> [info] - - "Processing http://testphp.vulnweb.com/search.php?test=query, Remaining request: 42" 2020-03-20-16:40:41
+===> [info] - - "Processing http://testphp.vulnweb.com/admin, Remaining request: 41" 2020-03-20-16:40:42
+===> [info] - - "Processing http://testphp.vulnweb.com/admin/, Remaining request: 40" 2020-03-20-16:40:43
+===> [info] - - "Processing http://testphp.vulnweb.com/artists.php?artist=1, Remaining request: 39" 2020-03-20-16:40:43
+===> [info] - - "Processing http://testphp.vulnweb.com/comment.php?aid=1, Remaining request: 38" 2020-03-20-16:40:44
+===> [info] - - "Processing http://testphp.vulnweb.com/search.php?test=query, Remaining request: 37" 2020-03-20-16:40:44
+===> [info] - - "Processing http://testphp.vulnweb.com/guestbook.php, Remaining request: 36" 2020-03-20-16:40:45
+===> [info] - - "Processing http://testphp.vulnweb.com/AJAX/categories.php, Remaining request: 35" 2020-03-20-16:40:45
+===> [info] - - "Processing http://testphp.vulnweb.com/AJAX/artists.php, Remaining request: 34" 2020-03-20-16:40:46
+===> [info] - - "Processing http://testphp.vulnweb.com/AJAX/titles.php, Remaining request: 33" 2020-03-20-16:40:46
+===> [info] - - "Processing http://testphp.vulnweb.com/AJAX/showxml.php, Remaining request: 32" 2020-03-20-16:40:46
+===> [info] - - "Processing http://testphp.vulnweb.com/listproducts.php?cat=2, Remaining request: 31" 2020-03-20-16:40:47
+===> [info] - - "Processing http://testphp.vulnweb.com/hpp/?pp=12, Remaining request: 30" 2020-03-20-16:40:47
+===> [info] - - "Processing http://testphp.vulnweb.com/Mod_Rewrite_Shop/Details/network-attached-storage-dlink/1/, Remaining request: 29" 2020-03-20-16:40:47
+===> [info] - - "Processing http://testphp.vulnweb.com/Mod_Rewrite_Shop/Details/web-camera-a4tech/2/, Remaining request: 28" 2020-03-20-16:40:47
+===> [info] - - "Processing http://testphp.vulnweb.com/Mod_Rewrite_Shop/Details/color-printer/3/, Remaining request: 27" 2020-03-20-16:40:48
+===> [info] - - "Processing http://testphp.vulnweb.com/signup.php, Remaining request: 26" 2020-03-20-16:40:48
+===> [info] - - "Processing http://testphp.vulnweb.com/userinfo.php, Remaining request: 25" 2020-03-20-16:40:48
+===> [info] - - "Processing http://testphp.vulnweb.com/userinfo.php, Remaining request: 24" 2020-03-20-16:40:49
+===> [info] - - "Processing http://testphp.vulnweb.com/admin/create.sql, Remaining request: 23" 2020-03-20-16:40:49
+===> [info] - - "Processing http://testphp.vulnweb.com/listproducts.php?artist=1, Remaining request: 22" 2020-03-20-16:40:50
+===> [info] - - "Processing http://testphp.vulnweb.com/comment.php, Remaining request: 21" 2020-03-20-16:40:50
+===> [info] - - "Processing http://testphp.vulnweb.com/comment.php, Remaining request: 20" 2020-03-20-16:40:51
+===> [info] - - "Processing http://testphp.vulnweb.com/Mod_Rewrite_Shop/RateProduct-1.html, Remaining request: 19" 2020-03-20-16:40:51
+===> [info] - - "Processing http://testphp.vulnweb.com/Mod_Rewrite_Shop/BuyProduct-1/, Remaining request: 18" 2020-03-20-16:40:52
+===> [info] - - "Processing http://testphp.vulnweb.com/Mod_Rewrite_Shop/BuyProduct-2/, Remaining request: 17" 2020-03-20-16:40:52
+===> [info] - - "Processing http://testphp.vulnweb.com/showimage.php?file=./pictures/6.jpg&size=160, Remaining request: 16" 2020-03-20-16:40:52
+===> [info] - - "Processing http://testphp.vulnweb.com/product.php?pic=6, Remaining request: 15" 2020-03-20-16:40:56
+===> [info] - - "Processing http://testphp.vulnweb.com/showimage.php?file=./pictures/6.jpg, Remaining request: 14" 2020-03-20-16:40:56
+===> [info] - - "Processing http://testphp.vulnweb.com/comment.php?pid=6, Remaining request: 13" 2020-03-20-16:40:57
+===> [info] - - "Processing http://testphp.vulnweb.com/Mod_Rewrite_Shop/BuyProduct-3/, Remaining request: 12" 2020-03-20-16:40:57
+===> [info] - - "Processing http://testphp.vulnweb.com/AJAX/showxml.php, Remaining request: 11" 2020-03-20-16:40:57
+===> [info] - - "Processing http://testphp.vulnweb.com/hpp/params.php?p=valid&pp=12, Remaining request: 10" 2020-03-20-16:40:57
+===> [info] - - "Processing http://testphp.vulnweb.com/hpp/params.php?, Remaining request: 9" 2020-03-20-16:40:58
+===> [info] - - "Processing http://testphp.vulnweb.com/hpp/params.php?aaaa%2F=%26%2325552%3B%26%2320132%3B, Remaining request: 8" 2020-03-20-16:40:58
+===> [info] - - "Processing http://testphp.vulnweb.com/secured/newuser.php, Remaining request: 7" 2020-03-20-16:40:58
+===> [info] - - "Processing http://testphp.vulnweb.com/secured/newuser.php, Remaining request: 6" 2020-03-20-16:40:59
+===> [info] - - "Processing http://testphp.vulnweb.com/comment.php, Remaining request: 5" 2020-03-20-16:40:59
+===> [info] - - "Processing http://testphp.vulnweb.com/cart.php, Remaining request: 4" 2020-03-20-16:40:59
+===> [info] - - "Processing http://testphp.vulnweb.com/secured/newuser.php, Remaining request: 3" 2020-03-20-16:41:00
+===> [info] - - "Processing http://testphp.vulnweb.com/comment.php, Remaining request: 2" 2020-03-20-16:41:00
+===> [info] - - "Processing http://testphp.vulnweb.com/comment.php, Remaining request: 1" 2020-03-20-16:41:01
+===> [info] - - "Processing http://testphp.vulnweb.com/comment.php, Remaining request: 0" 2020-03-20-16:41:01
+===> [get] - - "http://testphp.vulnweb.com/ Done" 2020-03-20-16:41:02
